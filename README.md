@@ -114,7 +114,7 @@ Future experiments could:
 | Deliverable | Link/Location | Completion |
 |---|---|---|
 | **Medium Article** | [Read Article](https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1) | ✅ Complete |
-| **Slide Presentation PDF** | slides folder | ✅ Complete |
+| **Slide Presentation PDF** | In "Slides Folder" | ✅ Complete |
 | **10–15 Minute Video** | https://youtu.be/lI7I9OMcIO4 | ✅ Complete |
 | **SlideShare Presentation** | Pending | ⏳ Pending |
 
