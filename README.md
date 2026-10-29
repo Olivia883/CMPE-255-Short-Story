@@ -64,7 +64,7 @@ The experiment followed these steps:
 
 The inertia decreased as the number of clusters increased. The elbow graph suggested that K = 3 was a reasonable simpler candidate, although the elbow was not completely clear. K = 5 achieved the highest silhouette score among the tested values.
 
-The elbow and silhouette methods therefore did not identify the same preferred number of clusters.
+The elbow and silhouette methods did not identify the same preferred number of clusters.
 
 ### Cluster Profiles for K = 5
 
@@ -102,7 +102,7 @@ Future experiments could:
 - Examine how outliers affect the clusters.
 - Investigate whether the identified groups are useful for specific business decisions.
 
-## 9. Project Files
+## 9. Files
 
 - **Notebook:** https://colab.research.google.com/drive/1bGRp2SA5z-E9lYqvjH8OgVl9wYvYdTJD#scrollTo=1b253f41
 - **Short Story PDF:** `report/kmeans_short_story.pdf`
@@ -110,11 +110,13 @@ Future experiments could:
 - **Presentation Slides:** `slides/`
 - **Presentation Video:** `video/`
 
-## 10. Assignment Deliverables
+## 10. Deliverables
 
-- **Medium Article:** https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1?sharedUserId=olhunter03
-- **Slide Presentation PDF:** Pending
-- **10–15 Minute Video:** Pending
+| Deliverable | Status / Link |
+|---|---|
+| **Medium Article** | [Machine Learning for Customer Segmentation: Exploring K-Means Clustering](https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1?sharedUserId=olhunter03) |
+| **Slide Presentation PDF** | Pending |
+| **10–15 Minute Video** | Pending |
 
 ## 11. References
 
