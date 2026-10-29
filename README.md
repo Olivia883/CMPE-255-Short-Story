@@ -114,8 +114,8 @@ Future experiments could:
 
 - **Public GitHub Repository:** Pending
 - **Medium Article:** Pending
-- **SlideShare Presentation:** Pending
-- **10–15 Minute Presentation Video:** Pending
+- **Slide Presentation:** Pending
+- **10–15 Minute Video:** Pending
 
 ## 11. References
 
