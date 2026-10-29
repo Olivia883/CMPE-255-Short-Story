@@ -108,6 +108,7 @@ Future experiments could:
 - **Short Story PDF:** `report/kmeans_short_story.pdf`
 - **Figures:** `figures/`
 - **Presentation Slides:** `slides/`
+- **Youtube Link:** https://youtu.be/lI7I9OMcIO4
 
 ## 10. Deliverables
 
