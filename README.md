@@ -112,9 +112,8 @@ Future experiments could:
 
 ## 10. Assignment Deliverables
 
-- **Public GitHub Repository:** Pending
 - **Medium Article:** Pending
-- **Slide Presentation:** Pending
+- **Slide Presentation PDF:** Pending
 - **10–15 Minute Video:** Pending
 
 ## 11. References
