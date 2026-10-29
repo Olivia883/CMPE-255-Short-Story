@@ -112,11 +112,11 @@ Future experiments could:
 
 ## 10. Deliverables
 
-| Medium Article | Slide Presentation PDF | 10–15 Minute Video |
-|---|---|---|
-| [Read Article](https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1?sharedUserId=olhunter03) | Pending | Pending |
-| Published | Pending | Pending |
-| Complete | Pending | Pending |
+| Deliverable | Link | Publication | Completion |
+|:--|:--|:--|:--|
+| **Medium Article** | [Read Article](YOUR_MEDIUM_ARTICLE_URL) | ✅ Published | ✅ Complete |
+| **Slide Presentation PDF** | Pending | ⏳ Pending | ⏳ Pending |
+| **10–15 Minute Video** | Pending | ⏳ Pending | ⏳ Pending |
 
 ## 11. References
 
