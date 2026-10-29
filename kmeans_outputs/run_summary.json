@@ -1,0 +1,18 @@
+{
+  "dataset_file":"Mall_Customers.csv",
+  "original_rows":200,
+  "rows_used":200,
+  "features":[
+    "Annual Income (k$)",
+    "Spending Score (1-100)"
+  ],
+  "standardization":"StandardScaler",
+  "k_values_tested":[
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state":42,
+  "n_init":10
+}
