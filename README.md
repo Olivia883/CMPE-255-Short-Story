@@ -82,9 +82,9 @@ The clusters showed different combinations of income and spending. For example, 
 
 The experiment produces the following figures:
 
-- Elbow method graph
-- Silhouette score graph
-- Customer cluster visualizations for K = 2, 3, 4, and 5
+- Elbow Method Graph
+- Silhouette Score Graph
+- Customer Cluster Visualizations for K = 2, 3, 4, and 5
 
 ## 7. Limitations
 
@@ -112,14 +112,14 @@ Future experiments could:
 
 ## 10. Assignment Deliverables
 
-- **Medium Article:** Pending
+- **Medium Article:** https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1?sharedUserId=olhunter03
 - **Slide Presentation PDF:** Pending
 - **10–15 Minute Video:** Pending
 
 ## 11. References
 
-1. Ikotun, A. M., Ezugwu, A. E., Abualigah, L., Abuhaija, B., & Heming, J. (2023). *K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data*. Information Sciences, 622, 178–210. https://www.sciencedirect.com/science/article/abs/pii/S0020025522014633
+1. Ikotun, A. M., Ezugwu, A. E., Abualigah, L., Abuhaija, B., & Heming, J. (2023). *K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data*. *Information Sciences, 622*, 178–210. https://doi.org/10.1016/j.ins.2022.11.139
 
-2. Liu, Y., & Huang, S. (2025). *A survey on K-means clustering algorithms: Theoretical analysis and performance comparison*. https://knightnemo.github.io/assets/files/clustering.pdf
+2. Liu, Y., & Huang, S. (2025, January 7). *A survey on K-means clustering algorithms: Theoretical analysis and performance comparison* [PDF]. https://knightnemo.github.io/assets/files/clustering.pdf
 
-3. Kaggle. *Customer Segmentation Tutorial in Python*. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+3. Kaggle. (n.d.). *Customer segmentation tutorial in Python* [Dataset]. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-pythonkm
