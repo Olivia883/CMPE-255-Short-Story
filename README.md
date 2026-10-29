@@ -108,7 +108,6 @@ Future experiments could:
 - **Short Story PDF:** `report/kmeans_short_story.pdf`
 - **Figures:** `figures/`
 - **Presentation Slides:** `slides/`
-- **Presentation Video:** `video/`
 
 ## 10. Deliverables
 
@@ -116,7 +115,7 @@ Future experiments could:
 |---|---|---|
 | **Medium Article** | [Read Article](https://medium.com/@olhunter03/machine-learning-for-customer-segmentation-exploring-k-means-clustering-f210fdbf5de1) | ✅ Complete |
 | **Slide Presentation PDF** | slides folder | ✅ Complete |
-| **10–15 Minute Video** | Pending | ⏳ Pending |
+| **10–15 Minute Video** | Pending | ✅ Complete |
 | **SlideShare Presentation** | Pending | ⏳ Pending |
 
 ## 11. References
